@@ -1,6 +1,4 @@
-# Hi there 👋 我是 [你的名字]
-
-🔥 **技术栈**  
+🔥 What I am using: 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -13,10 +11,8 @@
 - [项目1](链接): 简介
 - [项目2](链接): 简介 -->
 
-📊 **GitHub 统计**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hallucinatie&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hallucinatie&layout=compact&theme=radical)
-![wakatime status](https://github-readme-stats.vercel.app/api/wakatime?username=Hallucinatie)
 
 
 - 🔭 I’m currently an undergrad of Wuhan University.
