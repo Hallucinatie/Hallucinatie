@@ -13,8 +13,10 @@
 
 <a href="https://wakatime.com/@018dfd0f-c5e5-4a8c-a7b2-ddb9f7df78fb"><img src="https://wakatime.com/badge/user/018dfd0f-c5e5-4a8c-a7b2-ddb9f7df78fb.svg" alt="Total time coded since Mar 2 2024" /></a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hallucinatie&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hallucinatie&layout=compact&theme=radical)
+<p align="left">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Hallucinatie"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hallucinatie&layout=compact" />
+</p>
 
 - 🔭 I'm currently an undergrad of Wuhan University.
 <!-- - 🌱 I’m currently learning ...
